@@ -1,86 +1,86 @@
 export const manClothes = {
   anger: [
     {
-      description: '这款黑色皮夹克可以让你在生气时释放压力。',
-      name: '黑色皮夹克',
+      description: 'This black leather jacket can help you release pressure when angry.',
+      name: 'Black Leather Jacket',
     },
     {
-      description: '这款深红色的衬衫可以让你在生气时感到力量。',
-      name: '深红色长袖衬衫',
+      description: 'This deep red shirt can make you feel powerful when angry.',
+      name: 'Deep Red Long Sleeve Shirt',
     },
     {
-      description: '这款军绿色的工装裤可以让你在生气时感到坚韧。',
-      name: '军绿色工装裤',
+      description: 'These military green cargo pants can make you feel resilient when angry.',
+      name: 'Military Green Cargo Pants',
     },
   ],
   disgust: [
     {
-      description: '这款黑色的T恤可以让你在厌恶时感到冷静。',
-      name: '黑色修身T恤',
+      description: 'This black T-shirt can help you feel calm when disgusted.',
+      name: 'Black Fitted T-shirt',
     },
     {
-      description: '这款深色的裤子可以让你在厌恶时感到自在。',
-      name: '深色直筒休闲裤',
+      description: 'These dark pants can help you feel comfortable when disgusted.',
+      name: 'Dark Straight Casual Pants',
     },
     {
-      description: '这款军绿色的夹克可以让你在厌恶时感到坚定。',
-      name: '军绿色工装夹克',
+      description: 'This military green jacket can help you feel determined when disgusted.',
+      name: 'Military Green Utility Jacket',
     },
   ],
   fear: [
     {
-      description: '这款宽松的卫衣可以让你在害怕时感到安全。',
-      name: '灰色宽松连帽卫衣',
+      description: 'This loose hoodie can make you feel safe when afraid.',
+      name: 'Gray Loose Hooded Sweatshirt',
     },
     {
-      description: '这款黑色的裤子可以让你在害怕时感到舒适。',
-      name: '黑色直筒休闲裤',
+      description: 'These black pants can make you feel comfortable when afraid.',
+      name: 'Black Straight Casual Pants',
     },
     {
-      description: '这款深色的夹克可以让你在害怕时感到保护。',
-      name: '深蓝色牛仔夹克',
+      description: 'This dark jacket can make you feel protected when afraid.',
+      name: 'Dark Blue Denim Jacket',
     },
   ],
   happy: [
     {
-      description: '这款明亮的T恤可以增强你的快乐气氛。',
-      name: '亮黄色夏日T恤',
+      description: 'This bright T-shirt can enhance your happy mood.',
+      name: 'Bright Yellow Summer T-shirt',
     },
     {
-      description: '这款活泼的短裤可以让你的心情保持愉快。',
-      name: '卡通图案运动短裤',
+      description: 'These playful shorts can keep your mood cheerful.',
+      name: 'Cartoon Pattern Athletic Shorts',
     },
     {
-      description: '这款色彩明亮的衬衫可以让你看起来更加开朗。',
-      name: '彩色条纹休闲衬衫',
+      description: 'This bright colored shirt can make you look more cheerful.',
+      name: 'Colorful Striped Casual Shirt',
     },
   ],
   sad: [
     {
-      description: '舒适的卫衣可以让你在难过的时候感到舒适。',
-      name: '深色宽松卫衣',
+      description: 'A comfortable sweatshirt can make you feel cozy when sad.',
+      name: 'Dark Loose Sweatshirt',
     },
     {
-      description: '这款深色的夹克可以让你在难过的时候感到安慰。',
-      name: '黑色牛仔夹克',
+      description: 'This dark jacket can provide comfort when you are sad.',
+      name: 'Black Denim Jacket',
     },
     {
-      description: '简单的黑色T恤可以让你在难过的时候感到平静。',
-      name: '简洁黑色长袖T恤',
+      description: 'A simple black T-shirt can help you feel calm when sad.',
+      name: 'Simple Black Long Sleeve T-shirt',
     },
   ],
   surprise: [
     {
-      description: '这款亮色的T恤可以让你在惊喜时感到愉悦。',
-      name: '亮色图案T恤',
+      description: 'This bright T-shirt can make you feel joyful when surprised.',
+      name: 'Bright Patterned T-shirt',
     },
     {
-      description: '这款鲜艳的短裤可以让你在惊喜时感到活力。',
-      name: '鲜艳色彩运动短裤',
+      description: 'These vibrant shorts can make you feel energetic when surprised.',
+      name: 'Vibrant Athletic Shorts',
     },
     {
-      description: '这款多彩条纹的衬衫可以让你在惊喜时感到快乐。',
-      name: '多彩条纹衬衫',
+      description: 'This multicolored striped shirt can make you feel happy when surprised.',
+      name: 'Multicolored Striped Shirt',
     },
   ],
 };
@@ -88,86 +88,86 @@ export const manClothes = {
 export const womanClothes = {
   anger: [
     {
-      description: '这款黑色皮夹克可以让你在生气时释放压力。',
-      name: '黑色皮夹克',
+      description: 'This black leather jacket can help you release pressure when angry.',
+      name: 'Black Leather Jacket',
     },
     {
-      description: '这款深红色的衬衫可以让你在生气时感到力量。',
-      name: '深红色长袖衬衫',
+      description: 'This deep red shirt can make you feel powerful when angry.',
+      name: 'Deep Red Long Sleeve Shirt',
     },
     {
-      description: '这款军绿色的工装裤可以让你在生气时感到坚韧。',
-      name: '军绿色工装裤',
+      description: 'These military green cargo pants can make you feel resilient when angry.',
+      name: 'Military Green Cargo Pants',
     },
   ],
   disgust: [
     {
-      description: '这款黑色的连衣裙可以让你在厌恶时感到冷静。',
-      name: '黑色修身连衣裙',
+      description: 'This black dress can help you feel calm when disgusted.',
+      name: 'Black Fitted Dress',
     },
     {
-      description: '这款深色的裤子可以让你在厌恶时感到自在。',
-      name: '深色直筒休闲裤',
+      description: 'These dark pants can help you feel comfortable when disgusted.',
+      name: 'Dark Straight Casual Pants',
     },
     {
-      description: '这款军绿色的夹克可以让你在厌恶时感到坚定。',
-      name: '军绿色工装夹克',
+      description: 'This military green jacket can help you feel determined when disgusted.',
+      name: 'Military Green Utility Jacket',
     },
   ],
   fear: [
     {
-      description: '这款宽松的卫衣可以让你在害怕时感到安全。',
-      name: '灰色宽松连帽卫衣',
+      description: 'This loose hoodie can make you feel safe when afraid.',
+      name: 'Gray Loose Hooded Sweatshirt',
     },
     {
-      description: '这款黑色的裤子可以让你在害怕时感到舒适。',
-      name: '黑色直筒休闲裤',
+      description: 'These black pants can make you feel comfortable when afraid.',
+      name: 'Black Straight Casual Pants',
     },
     {
-      description: '这款深色的夹克可以让你在害怕时感到保护。',
-      name: '深蓝色牛仔夹克',
+      description: 'This dark jacket can make you feel protected when afraid.',
+      name: 'Dark Blue Denim Jacket',
     },
   ],
   happy: [
     {
-      description: '这款明亮的连衣裙可以增强你的快乐气氛。',
-      name: '亮黄色夏日连衣裙',
+      description: 'This bright dress can enhance your happy mood.',
+      name: 'Bright Yellow Summer Dress',
     },
     {
-      description: '这款活泼的短裤可以让你的心情保持愉快。',
-      name: '卡通图案运动短裤',
+      description: 'These playful shorts can keep your mood cheerful.',
+      name: 'Cartoon Pattern Athletic Shorts',
     },
     {
-      description: '这款色彩明亮的衬衫可以让你看起来更加开朗。',
-      name: '彩色条纹休闲衬衫',
+      description: 'This bright colored shirt can make you look more cheerful.',
+      name: 'Colorful Striped Casual Shirt',
     },
   ],
   sad: [
     {
-      description: '舒适的连衣裙可以让你在难过的时候感到舒适。',
-      name: '深色宽松连衣裙',
+      description: 'A comfortable dress can make you feel cozy when sad.',
+      name: 'Dark Loose Dress',
     },
     {
-      description: '这款深色的夹克可以让你在难过的时候感到安慰。',
-      name: '黑色牛仔夹克',
+      description: 'This dark jacket can provide comfort when you are sad.',
+      name: 'Black Denim Jacket',
     },
     {
-      description: '简单的黑色T恤可以让你在难过的时候感到平静。',
-      name: '简洁黑色长袖T恤',
+      description: 'A simple black T-shirt can help you feel calm when sad.',
+      name: 'Simple Black Long Sleeve T-shirt',
     },
   ],
   surprise: [
     {
-      description: '这款亮色的连衣裙可以让你在惊喜时感到愉悦。',
-      name: '亮色图案连衣裙',
+      description: 'This bright dress can make you feel joyful when surprised.',
+      name: 'Bright Patterned Dress',
     },
     {
-      description: '这款鲜艳的短裤可以让你在惊喜时感到活力。',
-      name: '鲜艳色彩运动短裤',
+      description: 'These vibrant shorts can make you feel energetic when surprised.',
+      name: 'Vibrant Athletic Shorts',
     },
     {
-      description: '这款多彩条纹的衬衫可以让你在惊喜时感到快乐。',
-      name: '多彩条纹衬衫',
+      description: 'This multicolored striped shirt can make you feel happy when surprised.',
+      name: 'Multicolored Striped Shirt',
     },
   ],
 };

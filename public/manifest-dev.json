@@ -4,18 +4,18 @@
     {
       "url": "https://sample-zurugpt-plugin.vercel.app/api/clothes",
       "name": "recommendClothes",
-      "description": "根据用户的心情，给用户推荐他有的衣服",
+      "description": "Recommend clothes to users based on their mood",
       "parameters": {
         "properties": {
           "mood": {
-            "description": "用户当前的心情，可选值有：开心（happy）, 难过（sad）,生气 （anger）,害怕（fear）,惊喜（ surprise）,厌恶 （disgust）",
+            "description": "User's current mood, available values are: happy, sad, anger, fear, surprise, disgust",
             "enum": ["happy", "sad", "anger", "fear", "surprise", "disgust"],
             "type": "string"
           },
           "gender": {
             "type": "string",
             "enum": ["man", "woman"],
-            "description": "对话用户的性别，需要询问用户后才知道这个信息"
+            "description": "User's gender, needs to be asked before providing recommendations"
           }
         },
         "required": ["mood", "gender"],

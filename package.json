@@ -59,8 +59,8 @@
     "antd-style": "^3",
     "dayjs": "^1",
     "next": "13.4.7",
-    "react": "^18",
-    "react-dom": "^18",
+    "react": ">=18",
+    "react-dom": ">=18",
     "react-layout-kit": "^1"
   },
   "devDependencies": {
@@ -80,6 +80,7 @@
     "remark-cli": "^11",
     "semantic-release": "^21",
     "stylelint": "^15",
+    "stylelint-config-recommended": "^15.0.0",
     "typescript": "^5",
     "vitest": "latest"
   },
