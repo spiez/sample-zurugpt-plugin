@@ -2,7 +2,7 @@
   "$schema": "../node_modules/@lobehub/chat-plugin-sdk/schema.json",
   "api": [
     {
-      "url": "http://localhost:3400/api/clothes",
+      "url": "https://sample-zurugpt-plugin.vercel.app/api/clothes",
       "name": "recommendClothes",
       "description": "根据用户的心情，给用户推荐他有的衣服",
       "parameters": {
@@ -25,7 +25,7 @@
   ],
   "author": "LobeHub",
   "createdAt": "2023-09-03",
-  "gateway": "http://localhost:3400/api/gateway",
+  "gateway": "http://sample-zurugpt-plugin.vercel.app/api/gateway",
   "homepage": "https://github.com/lobehub/chat-plugin-template",
   "identifier": "plugin-identifier",
   "meta": {
@@ -35,7 +35,7 @@
     "description": "This is the plugin template for LobeChat plugin development"
   },
   "ui": {
-    "url": "http://localhost:3400",
+    "url": "https://sample-zurugpt-plugin.vercel.app",
     "height": 200
   },
   "version": "1"
